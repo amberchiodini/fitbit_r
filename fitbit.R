@@ -9,7 +9,7 @@ generate_token(
 #Load cached token in future sessions 
 load_cached_token()
 
-# Access fitbit data using functions from fitbitr package. 
+# Access fitbit data using functions from fitbitr package
 library(fitbitr)
 library(lubridate)
 library(tidyverse)
